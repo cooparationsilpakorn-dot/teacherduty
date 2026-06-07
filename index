@@ -811,7 +811,7 @@ main{flex:1;overflow-y:auto;padding:28px;background:var(--yellow-bg)}
 /* ═══════════════════════════════════════════════════════════
    CONFIG — แก้ GAS_URL ตรงนี้จุดเดียว
 ═══════════════════════════════════════════════════════════ */
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbyaRqEFMexu6jOCa24uYPAP0pFsw1fLghd4P2zxBjD_2MTzvL9ashVYQi1Neu6Husfb/exec'; // ใส่ URL xxxxxx/exec  แล้วอัพเดทระบบอีกครั้งนะครับ
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbyaRqEFMexu6jOCa24uYPAP0pFsw1fLghd4P2zxBjD_2MTzvL9ashVYQi1Neu6Husfb/exec';
 let SCRIPT_URL = GAS_URL;
 
 /* ═══════════════════════════════════════════════════════════
